@@ -81,9 +81,9 @@ Fow now, fill an issue for package updating request.
 
 Working on that.
 
-### Request a component
+### Redirecting for nonexistent package.
 
-Fill an issue please.
+Working on that.
 
 ### Settings for CORS, cache, etc.
 
