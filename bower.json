@@ -1,0 +1,31 @@
+{
+  "name": "web-components-cdn",
+  "homepage": "https://github.com/project-yoru/polymer-cdn",
+  "authors": [
+    "Nano.WANG <namiheike@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.5.0",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.7",
+    "app-elements": "PolymerElements/app-elements#^0.9.0",
+    "iron-elements": "^1.0.10",
+    "neon-elements": "^1.0.0",
+    "platinum-elements": "^2.0.0",
+    "gold-elements": "^1.0.1",
+    "marked-element": "^1.1.3",
+    "prism-element": "^1.0.4",
+    "google-web-components": "^1.1.0",
+    "polymerfire": "^0.2.0"
+  }
+}
