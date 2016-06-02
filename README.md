@@ -11,7 +11,7 @@ Public CDN designed for web components.
 ## Usage
 
 ```html
-<link rel="import" href="https://cdn.wcdn.io/iron-ajax/iron-ajax.html">
+<link rel="import" href="http://cdn.wcdn.io/iron-ajax/iron-ajax.html">
 ```
 
 You may wanna replace all `src` in `<link>`s in your build pipeling by using something like `gulp-replace`
@@ -82,3 +82,7 @@ Fill an issue please.
 ### settings for CORS, cache, etc.
 
 Should be fine for normally using, fill an issue if it doesn't.
+
+### HTTPS
+
+Still no. Working on that.
