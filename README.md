@@ -16,6 +16,12 @@ Public CDN designed for web components.
 
 You may wanna replace all `src` in `<link>`s in your build pipeling by using something like `gulp-replace`
 
+## Still in alpha
+
+Do NOT use in production.
+
+Looking for testing users.
+
 ## List of current hosting components
 
 - Polymer lib
