@@ -1,4 +1,4 @@
-# Web Components Delivery network
+# Web Components Delivery Network
 
 Public CDN designed for web components.
 
@@ -79,9 +79,9 @@ Working on that.
 
 Fill an issue please.
 
-### settings for CORS, cache, etc.
+### Settings for CORS, cache, etc.
 
-Should be fine for normally using, fill an issue if it doesn't.
+Should be fine for normal using, fill an issue if it doesn't.
 
 ### HTTPS
 
