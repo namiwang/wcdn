@@ -19,7 +19,7 @@ You may wanna replace all `src` in `<link>`s in your build pipeling by using som
 ## List of current hosting components
 
 - Polymer lib
-- Components released by Polymer team (see [Elements category](https://elements.polymer-project.org)
+- Components released by Polymer team (see [Polymer elements category](https://elements.polymer-project.org))
   - app-elements
   - iron-elements
   - paper-elements
