@@ -83,6 +83,6 @@ Fill an issue please.
 
 Should be fine for normal using, fill an issue if it doesn't.
 
-### HTTPS
+### HTTPS & HTTP/2
 
 Still no. Working on that.
